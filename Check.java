@@ -1,6 +1,6 @@
  public class Check{
 
-public static void (String[] args){
+public static void main(String[] args){
 
 System.out.println("this is java class ...");
 }
